@@ -1,6 +1,6 @@
 # - Jogo do Número Secreto
 
-![preview](./.github/jogo-secreto.png)
+![preview](./.github/numero-secreto.png)
 
 # Descrição: 
 
