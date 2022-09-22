@@ -15,7 +15,7 @@
 
 <br>
 
-## *  Para poder jogar acesse o link:
+## *  Para jogar acesse o link:
 
 https://reissjoao.github.io/jogo-numero-secreto/
 
