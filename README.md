@@ -6,7 +6,7 @@
 
 ## Projeto do jogo do número secreto - Alura
 
-### Realizado através de validações e reconhecimento de voz com o Web Speech API.
+### Realizado através de validações e reconhecimento de voz com o Web Speech API. 🔊
 <br>
 
 ### O programa aleatóriamente irá retornar um número de 1 a 100 e o usuário deverá adivinhar. Utilizando a função Math.random() para a escolha do número, e para o reconhecimento de voz utilizado o Web Speech API. 
@@ -21,7 +21,7 @@ https://reissjoao.github.io/jogo-numero-secreto/
 
 <br>
 
-## Regras: 
+## ✔️ Regras: 
 
 - Ter um microfone para o reconhecimento da API
 
@@ -33,7 +33,7 @@ https://reissjoao.github.io/jogo-numero-secreto/
 ----------------------------
 <br>
 
-## Conteúdos abordados:
+## 📚 Conteúdos abordados:
 
 - Aplicações de validações nos projeto com JavaScript
 
