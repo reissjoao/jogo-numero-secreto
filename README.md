@@ -1,4 +1,4 @@
-# - Jogo do Número Secreto
+# - Jogo do Número Secreto - Alura
 
 ![preview](./.github/numero-secreto.png)
 
