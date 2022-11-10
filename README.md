@@ -1,6 +1,6 @@
 # - Jogo do Número Secreto - Alura
 
-![preview](./.github/numero-secreto.png)
+![preview](./.github/numero-secreto.png#vitrinedev)
 
 # Descrição: 
 
